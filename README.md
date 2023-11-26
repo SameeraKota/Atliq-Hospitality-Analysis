@@ -1,4 +1,4 @@
-#Atliq Hospitality Analysis #Data is taken from Zaggle.com 
+#Atliq Hospitality Analysis #Dataset is taken from Zaggle.com 
 
 Key Insights: 
 
