@@ -1,4 +1,4 @@
-## Atliq Hospitality Analysis : Domain: Hospitality  Function: Revenue
+## Atliq Hospitality Analysis : Domain: Hospitality,  Function: Revenue
 ## Codebasics Resume Project Challenge-1 
 
 Project link: https://codebasics.io/challenge/codebasics-resume-project-challenge
