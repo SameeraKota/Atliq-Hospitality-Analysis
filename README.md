@@ -15,9 +15,9 @@ Their revenue management team had decided to hire a 3rd party service provider t
 ## Task:  
 You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. 
 
-i.Create the metrics according to the metric list.
-ii.Create a dashboard according to the mock-up provided by stakeholders.
-iii.Create relevant insights that are not provided in the metric list/mock-up dashboard.
+i. Create the metrics according to the metric list.
+ii. Create a dashboard according to the mock-up provided by stakeholders.
+iii. Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 ## Mock-up dashboard 
 ![image](https://github.com/SameeraKota/Atliq-Hospitality-Analysis/assets/151723407/b88af21f-12b3-4024-959b-74c2083244bf)
