@@ -1,6 +1,7 @@
 ## Atliq Hospitality Analysis : Domain: Hospitality,  Function: Revenue
 
 Click below for Powerpoint presentation, Interactive dashboard link and Dashaboard Video
+
 [Atliq Hospitality Ppt](https://github.com/SameeraKota/Atliq-Hospitality-Analysis/blob/main/Atliq%20Hospitality%20Analysis%20PPT.pdf)
 
 [Dashboard](https://github.com/SameeraKota/Atliq-Hospitality-Analysis/blob/main/Atliq%20Hospitality%20Project.pbix)
