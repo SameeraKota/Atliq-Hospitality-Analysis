@@ -1,10 +1,11 @@
 ## Atliq Hospitality Analysis : Domain: Hospitality,  Function: Revenue
 
-PPT: [Atliq Hospitality Ppt](https://github.com/SameeraKota/Atliq-Hospitality-Analysis/blob/main/Atliq%20Hospitality%20Analysis%20PPT.pdf)
+Click below for Powerpoint presentation, Interactive dashboard link and Dashaboard Video
+[Atliq Hospitality Ppt](https://github.com/SameeraKota/Atliq-Hospitality-Analysis/blob/main/Atliq%20Hospitality%20Analysis%20PPT.pdf)
 
-Report: [Dashboard](https://github.com/SameeraKota/Atliq-Hospitality-Analysis/blob/main/Atliq%20Hospitality%20Project.pbix)
+[Dashboard](https://github.com/SameeraKota/Atliq-Hospitality-Analysis/blob/main/Atliq%20Hospitality%20Project.pbix)
 
-Video: [Video](https://youtu.be/PyZTRwUYIPw)
+[Video](https://youtu.be/PyZTRwUYIPw)
 
 AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
 
@@ -13,9 +14,9 @@ Their revenue management team had decided to hire a 3rd party service provider t
 ## Task:  
 You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. 
 
-Create the metrics according to the metric list.
-Create a dashboard according to the mock-up provided by stakeholders.
-Create relevant insights that are not provided in the metric list/mock-up dashboard.
+i.Create the metrics according to the metric list.
+ii.Create a dashboard according to the mock-up provided by stakeholders.
+iii.Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 ## Mock-up dashboard 
 ![image](https://github.com/SameeraKota/Atliq-Hospitality-Analysis/assets/151723407/b88af21f-12b3-4024-959b-74c2083244bf)
