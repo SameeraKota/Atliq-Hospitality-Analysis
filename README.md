@@ -15,6 +15,18 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 ## Data Model 
 ![image](https://github.com/SameeraKota/Atliq-Hospitality-Analysis/assets/151723407/8ef8851a-7d80-4dec-aca0-fab35d3892b9)
 
+## Performace 
+
+![report 1 page ](https://github.com/SameeraKota/Atliq-Hospitality-Analysis/assets/151723407/4614bee0-3ae6-4e9b-b059-f18ee1eb73ef)
+
+![report 2 apge ](https://github.com/SameeraKota/Atliq-Hospitality-Analysis/assets/151723407/16d48548-244d-43fd-8d57-94b28d2282bc)
+
+![report 3 page](https://github.com/SameeraKota/Atliq-Hospitality-Analysis/assets/151723407/46184ba5-6d05-4d4b-a9cf-40f0f3b7a2d0)
+
+## Learnings
+1. Gained a solid understanding of the Hospitality Domain, including key metrics such as RevPAR, DBRN, DSRN, DURN, ADR, Realization and Occupancy Percentage.
+2. Enhanced skills in creating DAX measures for improved data analysis.
+3. Used consistent colors across the reports to make them look organized and easier to understand, ensuring that users have a smooth and pleasant experience.
 
 ## Key Insights: 
 
